@@ -63,7 +63,7 @@ home_accountant/
 
 Для создания новой таблицы выберите соответствующую опцию в главном меню
 
-<img width="697" height="456" alt="Снимок экрана 2025-11-14 232251" src="https://github.com/user-attachments/assets/9b19fb29-81a1-4374-8c76-e3892e16d8a1" />
+<img width="656" height="438" alt="Снимок экрана 2025-11-15 131026" src="https://github.com/user-attachments/assets/24911f73-bb98-4d82-86a0-7829d68151b7" />
 
 На изображении представлено главное меню системы с центральным расположением функциональных кнопок:
 ----------------------
@@ -78,7 +78,7 @@ home_accountant/
 
 "Объединить год" - создание годовой финансовой отчетности
 
-<img width="964" height="815" alt="Снимок экрана 2025-11-14 232129" src="https://github.com/user-attachments/assets/7f1d3e25-f955-4722-82d8-ad53a5ae730d" />
+<img width="964" height="815" alt="Снимок экрана 2025-11-14 232129" src="https://github.com/user-attachments/assets/844d6467-267d-4417-bc8f-0e7222d0313a" />
 
 Демонстрация основного интерфейса управления финансами:
 ----------------------
@@ -93,7 +93,7 @@ home_accountant/
 
 Панель управления с кнопками сохранения и визуализации данных
 
-<img width="936" height="807" alt="Снимок экрана 2025-11-14 232234" src="https://github.com/user-attachments/assets/acb4c21b-37a5-48a6-9b42-b64b750b6b41" />
+<img width="936" height="807" alt="Снимок экрана 2025-11-14 232234" src="https://github.com/user-attachments/assets/a5db07a1-85a3-4332-a6f1-ee2e345f31e0" />
 
 Визуализация финансовой аналитики:
 ----------------------
